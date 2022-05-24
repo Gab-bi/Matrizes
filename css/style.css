@@ -1,0 +1,64 @@
+.titulo {
+    text-align: center;
+    font-size: 23px;
+}
+
+.cabecalho {
+    text-align: center;
+    font-size: 15px;
+}
+
+.tituloM {
+    text-align: left;
+    font-size: 20px;
+}
+
+.quebrarl {
+    display: inline-block;
+}
+
+h1{
+    padding: 30px;
+    vertical-align: middle;
+}
+
+table {
+    vertical-align: middle;
+}
+
+td{
+    border-style: none;
+}
+ 
+.grad1{
+    background-color: aliceblue;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 12px;
+    cursor: pointer;
+    text-align: center;	
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #3e8e41}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+img{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
